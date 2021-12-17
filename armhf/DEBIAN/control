@@ -1,0 +1,8 @@
+Package: aliyundrive-webdav
+Version: 1.0.0
+Architecture: armhf
+Priority: optional
+Section: utils
+Maintainer: Junyi Shi <hmsjy2019@gmail.com>
+Homepage: https://github.com/messense/aliyundrive-webdav
+Description: WebDAV service support for Aliyun drive
